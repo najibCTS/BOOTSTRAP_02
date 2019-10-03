@@ -1,0 +1,17 @@
+﻿body {
+    border: 1px solid black;
+}
+
+form, button, #divPtSearch input, select {
+    margin: 5px;
+}
+
+.gj-datepicker > span > button {
+    border-left: 1px solid #ced4da !important;
+    border-top-left-radius: 4px !important;
+    border-bottom-left-radius: 4px !important;
+}
+
+#btnDel {
+    border-color: green;
+}
